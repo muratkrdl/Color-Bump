@@ -3,7 +3,7 @@
 
 You will face a kaleidoscope of obstacles that test your reflexes and precision
 
-The purple ball is your ball. You can move it by dragging it on the screen (with your finger or mouse)
+The purple ball is your ball. You can move it by dragging it on the screen (with mouse)
 
 Remember, you can only bump into obstacles that match white color. Accidentally bump the wrong color, you are starting over
 
